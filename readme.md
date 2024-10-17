@@ -34,6 +34,7 @@
 其他开源项目：
 
 [第三届琶洲算法大赛-GLM法律行业大模型挑战赛道第五名方案](https://github.com/MetaGLM/LawGLM/tree/tangtang/APIWeaver-lawGLM)
+
 [后续优化](https://github.com/MeiPixel/APIWeaver)
 
 
